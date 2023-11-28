@@ -1,0 +1,6 @@
+[workspace]
+
+members = [
+    "extremely_rare_letter_scanner",
+    "extremely_rare_letter_hacker",
+]
